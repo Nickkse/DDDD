@@ -2,7 +2,7 @@ name: Workflow01
 on: push
 
 jobs:
-  my-job01:
+  my-job:
     name: 
     runs-on: centos-latest
     steps:
